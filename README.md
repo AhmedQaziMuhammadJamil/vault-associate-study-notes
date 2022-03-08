@@ -1,0 +1,64 @@
+# vault-associate-study-notes
+
+My study notes for the HashiCorp Certified: Vault Associate certification exam.
+
+## Exam Objectives
+
+- **1** &ndash; Compare authentication methods
+  - **1a** &ndash; Describe authentication methods
+  - **1b** &ndash; Choose an authentication method based on use case
+  - **1c** &ndash; Differentiate human vs. system auth methods
+- **2** &ndash; Create Vault policies
+  - **2a** &ndash; Illustrate the value of Vault policy
+  - **2b** &ndash; Describe Vault policy syntax: path
+  - **2c** &ndash; Describe Vault policy syntax: capabilities
+  - **2d** &ndash; Craft a Vault policy based on requirements
+- **3** &ndash; Assess Vault tokens
+  - **3a** &ndash; Describe Vault token
+  - **3b** &ndash; Differentiate between service and batch tokens. Choose one based on use-case
+  - **3c** &ndash; Describe root token uses and lifecycle
+  - **3d** &ndash; Define token accessors
+  - **3e** &ndash; Explain time-to-live
+  - **3f** &ndash; Explain orphaned tokens
+  - **3g** &ndash; Create tokens based on need
+- **4** &ndash; Manage Vault leases
+  - **4a** &ndash; Explain the purpose of a lease ID
+  - **4b** &ndash; Renew leases
+  - **4c** &ndash; Revoke leases
+- **5** &ndash; Compare and configure Vault secrets engines
+  - **5a** &ndash; Choose a secret method based on use case
+  - **5b** &ndash; Contrast dynamic secrets vs. static secrets and their use cases
+  - **5c** &ndash; Define transit engine
+  - **5d** &ndash; Define secrets engines
+- **6** &ndash; Utilize Vault CLI
+  - **6a** &ndash; Authenticate to Vault
+  - **6b** &ndash; Configure authentication methods
+  - **6c** &ndash; Configure Vault policies
+  - **6d** &ndash; Access Vault secrets
+  - **6e** &ndash; Enable Secret engines
+  - **6f** &ndash; Configure environment variables
+- **7** &ndash; Utilize Vault UI
+  - **7a** &ndash; Authenticate to Vault
+  - **7b** &ndash; Configure authentication methods
+  - **7c** &ndash; Configure Vault policies
+  - **7d** &ndash; Access Vault secrets
+  - **7e** &ndash; Enable Secret engines
+- **8** &ndash; Be aware of the Vault API
+  - **8a** &ndash; Authenticate to Vault via Curl
+  - **8b** &ndash; Access Vault secrets via Curl
+- **9** &ndash; Explain Vault architecture
+  - **9a** &ndash; Describe the encryption of data stored by Vault
+  - **9b** &ndash; Describe cluster strategy
+  - **9c** &ndash; Describe storage backends
+  - **9d** &ndash; Describe the Vault agent
+  - **9e** &ndash; Describe secrets caching
+  - **9f** &ndash; Be aware of identities and groups
+  - **9g** &ndash; Describe Shamir secret sharing and unsealing
+  - **9h** &ndash; Be aware of replication
+  - **9i** &ndash; Describe seal/unseal
+  - **9j** &ndash; Explain response wrapping
+  - **9k** &ndash; Explain the value of short-lived, dynamically generated secrets
+- **10** &ndash; Explain encryption as a service
+  - **10a** &ndash; Configure transit secret engine
+  - **10b** &ndash; Encrypt and decrypt secrets
+  - **10c** &ndash; Rotate the encryption key
