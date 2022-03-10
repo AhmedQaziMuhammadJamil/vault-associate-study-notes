@@ -5,7 +5,7 @@ My study notes for the HashiCorp Certified: Vault Associate certification exam.
 ## Exam Objectives
 
 - **1** &ndash; Compare authentication methods
-  - **1a** &ndash; Describe authentication methods
+  - [**1a** &ndash; Describe authentication methods](1/1a.md)
   - **1b** &ndash; Choose an authentication method based on use case
   - **1c** &ndash; Differentiate human vs. system auth methods
 - **2** &ndash; Create Vault policies
