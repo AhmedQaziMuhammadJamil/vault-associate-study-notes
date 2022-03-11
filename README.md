@@ -3,6 +3,8 @@
 My study notes for the HashiCorp Certified: Vault Associate certification exam.
 
  <img align="right" alt="Vault Associate badge" src="https://github.com/kristinjeanna/vault-associate-study-notes/blob/main/vault-associate-badge.jpg?raw=true" width="300" />
+ 
+ *Note: this is a work-in-progress.*
 
 ## Exam Objectives
 
