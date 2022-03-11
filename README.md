@@ -7,7 +7,7 @@ My study notes for the HashiCorp Certified: Vault Associate certification exam.
 - **1** &ndash; Compare authentication methods
   - [**1a** &ndash; Describe authentication methods](1/1a.md)
   - [**1b** &ndash; Choose an authentication method based on use case](1/1b.md)
-  - **1c** &ndash; Differentiate human vs. system auth methods
+  - [**1c** &ndash; Differentiate human vs. system auth methods](1/1c.md)
 - **2** &ndash; Create Vault policies
   - **2a** &ndash; Illustrate the value of Vault policy
   - **2b** &ndash; Describe Vault policy syntax: path
