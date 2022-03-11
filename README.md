@@ -29,11 +29,11 @@ My study notes for the HashiCorp Certified: Vault Associate certification exam.
   - **4a** &ndash; Explain the purpose of a lease ID
   - **4b** &ndash; Renew leases
   - **4c** &ndash; Revoke leases
-- **5** &ndash; Compare and configure Vault secrets engines
-  - **5a** &ndash; Choose a secret method based on use case
-  - **5b** &ndash; Contrast dynamic secrets vs. static secrets and their use cases
-  - **5c** &ndash; Define transit engine
+- **5** &ndash; Compare and configure Vault secrets engines *(reordered more logically)*
   - **5d** &ndash; Define secrets engines
+  - **5b** &ndash; Contrast dynamic secrets vs. static secrets and their use cases
+  - **5a** &ndash; Choose a secret method based on use case
+  - **5c** &ndash; Define transit engine
 - **6** &ndash; Utilize Vault CLI
   - **6a** &ndash; Authenticate to Vault
   - **6b** &ndash; Configure authentication methods
