@@ -9,10 +9,10 @@ My study notes for the HashiCorp Certified: Vault Associate certification exam.
   - [**1b** &ndash; Choose an authentication method based on use case](1/1b.md)
   - [**1c** &ndash; Differentiate human vs. system auth methods](1/1c.md)
 - **2** &ndash; Create Vault policies
-  - **2a** &ndash; Illustrate the value of Vault policy
-  - **2b** &ndash; Describe Vault policy syntax: path
-  - **2c** &ndash; Describe Vault policy syntax: capabilities
-  - **2d** &ndash; Craft a Vault policy based on requirements
+  - [**2a** &ndash; Illustrate the value of Vault policy](2/2a.md)
+  - [**2b** &ndash; Describe Vault policy syntax: path](2/2b.md)
+  - [**2c** &ndash; Describe Vault policy syntax: capabilities](2/2c.md)
+  - [**2d** &ndash; Craft a Vault policy based on requirements](2/2d.md)
 - **3** &ndash; Assess Vault tokens
   - **3a** &ndash; Describe Vault token
   - **3b** &ndash; Differentiate between service and batch tokens. Choose one based on use-case
