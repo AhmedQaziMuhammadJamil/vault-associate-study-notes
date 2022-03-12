@@ -18,13 +18,13 @@ My study notes for the HashiCorp Certified: Vault Associate certification exam.
   - [**2c** &ndash; Describe Vault policy syntax: capabilities](2/2c.md)
   - [**2d** &ndash; Craft a Vault policy based on requirements](2/2d.md)
 - **3** &ndash; Assess Vault tokens
-  - **3a** &ndash; Describe Vault token
-  - **3b** &ndash; Differentiate between service and batch tokens. Choose one based on use-case
-  - **3c** &ndash; Describe root token uses and lifecycle
-  - **3d** &ndash; Define token accessors
-  - **3e** &ndash; Explain time-to-live
-  - **3f** &ndash; Explain orphaned tokens
-  - **3g** &ndash; Create tokens based on need
+  - [**3a** &ndash; Describe Vault token](3/3a.md)
+  - [**3b** &ndash; Differentiate between service and batch tokens. Choose one based on use-case](3/3b.md)
+  - [**3c** &ndash; Describe root token uses and lifecycle](3/3c.md)
+  - [**3d** &ndash; Define token accessors](3/3d.md)
+  - [**3e** &ndash; Explain time-to-live](3/3e.md)
+  - [**3f** &ndash; Explain orphaned tokens](3/3f.md)
+  - [**3g** &ndash; Create tokens based on need](3/3g.md)
 - **4** &ndash; Manage Vault leases
   - **4a** &ndash; Explain the purpose of a lease ID
   - **4b** &ndash; Renew leases
