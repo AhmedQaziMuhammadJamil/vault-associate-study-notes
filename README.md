@@ -26,9 +26,9 @@ My study notes for the HashiCorp Certified: Vault Associate certification exam.
   - [**3f** &ndash; Explain orphaned tokens](3/3f.md)
   - [**3g** &ndash; Create tokens based on need](3/3g.md)
 - **4** &ndash; Manage Vault leases
-  - **4a** &ndash; Explain the purpose of a lease ID
-  - **4b** &ndash; Renew leases
-  - **4c** &ndash; Revoke leases
+  - [**4a** &ndash; Explain the purpose of a lease ID](4/4a.md)
+  - [**4b** &ndash; Renew leases](4/4b.md)
+  - [**4c** &ndash; Revoke leases](4/4c.md)
 - **5** &ndash; Compare and configure Vault secrets engines *(reordered more logically)*
   - **5d** &ndash; Define secrets engines
   - **5b** &ndash; Contrast dynamic secrets vs. static secrets and their use cases
